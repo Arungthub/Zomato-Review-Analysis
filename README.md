@@ -74,7 +74,7 @@ Ideal for sentiment analysis involving large vocabulary sizes.
 
 #1. Clone the Repository
 
---> git clone <your-repo-link> / create a codespace and execute the code.
+--> git clone <your-repo-link> / create a codespace and execute the code.                                                                      
 --> cd Zomato-Review-Analysis
 
 
